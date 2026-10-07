@@ -1,0 +1,10 @@
+name = "foata_parking"
+version = "0.1.0"
+defaultTargets = ["foata_parking"]
+
+[[lean_lib]]
+name = "FoataParking"
+
+[[lean_exe]]
+name = "foata_parking"
+root = "Main"
